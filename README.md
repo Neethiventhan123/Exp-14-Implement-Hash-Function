@@ -72,7 +72,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Screenshot 2024-10-18 205730](https://github.com/user-attachments/assets/43bd88ce-839a-40f4-90fe-629f1e47e364)
+![image](https://github.com/user-attachments/assets/1f71eab4-2494-4ec1-a8b7-a4c40d4e0cd0)
 
 
 # RESULT:
